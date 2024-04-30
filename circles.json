@@ -1,0 +1,6 @@
+[
+  { "text": "Alegria", "sound": "https://cosasarena.s3.amazonaws.com/telefono.mp3"},
+  { "text": "Comida", "sound": "https://cosasarena.s3.amazonaws.com/telefono.mp3"},
+  { "text": "Libro", "sound": "https://cosasarena.s3.amazonaws.com/telefono.mp3"},
+  { "text": "Mate", "sound": "telefono.mp3"}
+]
